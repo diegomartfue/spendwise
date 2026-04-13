@@ -1,7 +1,7 @@
 // src/mcp/notion/client.ts
 // Notion API client and database ID exports.
 // All Notion interactions flow through this client.
-
+import 'dotenv/config';
 import { Client } from "@notionhq/client";
 
 function requireEnv(name: string): string {
