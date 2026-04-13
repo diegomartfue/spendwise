@@ -326,6 +326,11 @@ npm run mcp
 npm run agent
 ```
 
+
+## Credits
+
+Inspired by [jarv](https://github.com/mJiga/jarv) by Guillermo Jimenez Garcia. 
+Forked and extended with a Claude API integration replacing the original Gemini agent layer.
 ---
 
 ## License
